@@ -1,0 +1,26 @@
+{
+  "name": "rsronald",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extraeRuc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronesprograms/rsronald.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronesprograms/rsronald/issues"
+  },
+  "homepage": "https://github.com/ronesprograms/rsronald#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.1",
+    "puppeteers": "0.0.10"
+  }
+}
