@@ -58,7 +58,8 @@ app.get('/ruc/:numero', async function (req, res) {
 });
 
 app.listen(port, () => console.log(`Hello world app listening on port ${port}!`));
-
+// Export the Express API
+module.exports = app;
 
 /**
  * desencrita el RUC que viene encriptado
